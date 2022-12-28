@@ -1,5 +1,5 @@
 {
-  "name": "@Boilerplate/boiler-navbar",
+  "name": "boilerplate-boiler-navbar",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",

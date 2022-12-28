@@ -1,5 +1,5 @@
 {
-  "name": "@Boilerplate/boiler-auth",
+  "name": "boilerplate-boiler-auth",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",

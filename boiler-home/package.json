@@ -1,5 +1,5 @@
 {
-  "name": "@Boilerplate/boiler-home",
+  "name": "boilerplate-boiler-home",
   "scripts": {
     "start": "webpack serve",
     "start:standalone": "webpack serve --env standalone",
